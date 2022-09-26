@@ -16,9 +16,6 @@ def Update():
 
     exit('\033[1;31m(×) Commands On Update Please Wait For Update ❤ ')
 
-def Run():
-
-        bit = platform.architecture()[0]
 
 
 
